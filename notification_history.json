@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-07-30T20:31:10.308734",
+    "symbol": "INTC",
+    "action": "buy",
+    "confidence": 0.95,
+    "message": "\ud83d\udfe2 <b>TRADING SIGNAL</b> \ud83d\udfe2\n\n<b>Symbol:</b> INTC\n<b>Action:</b> BUY\n<b>Confidence:</b> 95.0%\n<b>Current Price:</b> $20.40\n\n<b>Stop Loss:</b> $19.38\n<b>Take Profit:</b> $22.43\n<b>Risk/Reward:</b> 1:2.00\n\n<b>Reasoning:</b> Buy signals: Rsi Oversold (strength: 0.60), Support Bounce (strength: 0.80)\n<b>Time:</b> 2025-07-30 20:31:10\n\n\u26a0\ufe0f <i>This is an automated signal. Please verify before trading.</i>",
+    "sent_successfully": false
+  }
+]

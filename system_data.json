@@ -1,0 +1,31 @@
+{
+  "system_stats": {
+    "signals_generated": 1,
+    "notifications_sent": 1,
+    "system_uptime": 0,
+    "last_update": "2025-07-30T20:31:22.879913"
+  },
+  "last_model_training": "2025-07-30T20:30:51.396701",
+  "symbols": [
+    "AAPL",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "TSLA",
+    "NVDA",
+    "META",
+    "NFLX",
+    "AMD",
+    "CRM",
+    "UBER",
+    "PYPL",
+    "ADBE",
+    "INTC",
+    "ORCL",
+    "IBM",
+    "SHOP",
+    "SQ",
+    "ZOOM",
+    "DOCU"
+  ]
+}
